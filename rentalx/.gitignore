@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+/.vscode
+/yarn.lock
+/tsconfig.json
+
+.editorconfig
+.eslintignore
+.eslintrc.json
